@@ -6,3 +6,5 @@ Tic Tac Toe against computer made using the numpy python module. Ai has three po
   The computer copies the game board and sees if the user could make a winning move and blocks it.
 3) Random Move
   Type of move used at start of game.
+
+To run just launch from main_controller
